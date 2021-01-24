@@ -1,16 +1,14 @@
-### Hi there 👋
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />
+</p>
 
-<!--
-**qyxtim/qyxtim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, here is Tim Qiu👋
 
-Here are some ideas to get you started:
+- 🔭 I'm currently student who is studying computer science
+- 🌱 I'm also a [Blogger](https://blog.blinkstar.cn)📝, a Bibliophilia and a Wayfarer
+- 👯 My major projects: [Bitcron-pro](https://github.com/qyxtim/bitcron-pro) and [Modern poetry](https://github.com/qyxtim/modern-poetry)
+- 📫 How to reach me: admin@blinkstar.cn
+- 😄 Pronouns: He/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=qyxtim&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
