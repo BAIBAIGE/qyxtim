@@ -5,7 +5,7 @@
 ### Hi, here is Tim Qiu👋
 
 - 🔭 I'm currently a student who is studying computer science
-- 🌱 I'm also a [Blogger](https://blog.blinkstar.cn)📝, a Bibliophilia and a Wayfarer
+- 🌱 I'm also a [Blogger](https://blog.blinkstar.cn)📝, a Bibliophilia📕 and a Wayfarer🚶
 - 👯 My major works: [Bitcron-pro](https://github.com/qyxtim/bitcron-pro) and [Modern poetry](https://github.com/qyxtim/modern-poetry)
 - 📫 How to reach me: admin@blinkstar.cn
 - 😄 Pronouns: He/Him/His
